@@ -1,0 +1,29 @@
+{
+  "name": "blog_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/khangtornado/blog_nodejs.git"
+  },
+  "keywords": [
+    "lekhang"
+  ],
+  "author": "lekhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khangtornado/blog_nodejs/issues"
+  },
+  "homepage": "https://github.com/khangtornado/blog_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
